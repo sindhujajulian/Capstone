@@ -1,0 +1,6 @@
+username = "Admin"
+password = "admin123"
+url = "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"
+first_name_data = "Elon"
+last_name_data = "Musk"
+nationality = "indian"
